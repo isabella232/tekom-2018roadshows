@@ -24,11 +24,14 @@
 ## Topic-Based Authoring and Forming a Narrative
 
 *	List and organize the tasks
+
 		1.	What does the user need to do?
 		2.	Identify relationships between the tasks.
 * Add and organize the concepts
+
 		1.	What does the user need to understand before performing the tasks?
 		2.	Identify relationships between concepts and tasks.
 * Add the reference topics
+		
 		1.	What does the user need to refer to when performing the tasks?
 		2.	Organize the reference topics and identify relationships between all of your topics.
