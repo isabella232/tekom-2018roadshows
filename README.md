@@ -12,8 +12,8 @@ The Roadshow is a 4-hour workshop which takes place in Bulgarian cities other th
 
 ## Planned Locations
 
-* Shumen&mdash;19 October @ 2:00PM till 6:00PM.
-* Varna&mdash;20 October @ 10:00AM till 2:45PM.
+* Shumen&mdash;26 October (Friday) @ 11:00PM till 3:30PM.
+* Varna&mdash;27 October (Saturday) @ 10:00AM till 2:30PM.
 * Burgas&mdash;9 November @ 2:00PM till 6:00PM.
 * Blagoevgrad&mdash;16 November @ 10:00AM till 2:45PM.
 * (Optional) Grabrovo
@@ -25,7 +25,7 @@ The Roadshow is a 4-hour workshop which takes place in Bulgarian cities other th
 * Kristina Bliznashka, VMWare
 * Margarita Staneva, VMWare
 * Martina Laleva, VMWare
-* Polina Markova, Bosch
+* Polya Markova, Bosch
 
 ## Draft Agenda
 
