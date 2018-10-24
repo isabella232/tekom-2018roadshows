@@ -25,7 +25,6 @@ The Roadshow is a 4-hour workshop which takes place in Bulgarian cities other th
 * Kristina Bliznashka, VMWare
 * Margarita Staneva, VMWare
 * Martina Laleva, VMWare
-* Polya Markova, Bosch
 
 ## Draft Agenda
 
