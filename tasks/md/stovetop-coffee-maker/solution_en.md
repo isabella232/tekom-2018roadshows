@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-* Verify that you have ground your coffee beans on the medium side of fine.
+* Verify that you have ground your coffee beans on the medium side or fine.
 * Verify that the amount of ground coffee you have is enough to fill the funnel filter.
 
 ## Procedure
